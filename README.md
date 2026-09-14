@@ -1,6 +1,6 @@
 ## Nizar Hazaymeh
 
-**Full-Stack & AI Engineer** — Amman, Jordan
+**Full-Stack & AI Engineer** at [9XAI](https://github.com/9XAI) — Amman, Jordan
 
 I build civic and government-scale platforms: traffic intelligence, citizen-experience
 analytics, crisis simulation. Mostly TypeScript and Python, mostly bilingual Arabic/English,
@@ -35,7 +35,8 @@ A real availability tree, per-user completion feeding back into availability, an
 genuine Moodle `.mbz` backups — written by understanding the behaviour, not copying the code.<br>
 <sub>FastAPI, SQLite, React, TypeScript</sub>
 
-> RASED and VoC-360 are client-owned. They are described here without repository links.
+> RASED and VoC-360 are 9XAI platforms built for government clients. They are described
+> here without repository links.
 
 ### Technologies
 
